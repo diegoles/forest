@@ -1,0 +1,44 @@
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+.pmd
+.jazzignore
+.externalToolBuilders
+.metadata
+target
+bin
+jspm_packages
+node_modules
+dist
+${env.JBOSS_HOME}
+MANIFEST.MF
+*.ear
+*/public/jspm_packages
+*/public/app
+build
+.gradle/
+ruleset.xml
