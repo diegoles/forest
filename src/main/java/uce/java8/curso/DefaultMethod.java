@@ -12,7 +12,7 @@ public class DefaultMethod implements PersonaA, PersonaB {
 		PersonaB.super.hablar();
 	}
 	
-	// MOdificando metodo Persona B
+	// Modificando metodo Persona B
 	/*@Override
 	public void hablar() {
 		System.out.println("Modificando metodo hablar Persona B");
